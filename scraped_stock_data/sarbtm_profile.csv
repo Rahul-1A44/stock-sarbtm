@@ -1,0 +1,2 @@
+symbol,companyName,sector,sharesOutstanding,marketPrice,changePercentage,lastTradedOn,fiftyTwoWeekHighLow,eps,peRatio,bookValue,pbv,dividendPercentage,address,website,phone,email,lastUpdated
+SARBTM,SARBTM Company Ltd. (Mock),Manufacturing And Processing (Mock),49755000.0,861.88,1.58,2025/07/06,"1,060.00-696.80",16.16,53.33,193.93,4.44,3.0,"Mock Address, Kathmandu, Nepal",mock-company.com,+977 01 XXXXXXX,info@mockcompany.com,2025-07-07T12:53:09.626990
